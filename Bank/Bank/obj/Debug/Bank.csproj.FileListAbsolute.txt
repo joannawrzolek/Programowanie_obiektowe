@@ -1,0 +1,2 @@
+c:\users\joanka\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\bin\Debug\Bank.exe.config
