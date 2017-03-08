@@ -1,0 +1,6 @@
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\bin\Release\Bank.exe.config
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\bin\Release\Bank.exe
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\bin\Release\Bank.pdb
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\obj\Release\Bank.exe
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\obj\Release\Bank.pdb
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\obj\Release\Bank.csprojResolveAssemblyReference.cache
