@@ -1,2 +1,7 @@
 c:\users\joanka\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.exe.config
 D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\bin\Debug\Bank.exe.config
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\bin\Debug\Bank.exe
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\bin\Debug\Bank.pdb
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\obj\Debug\Bank.exe
+D:\IIIsemestrWSB\Programowanie obiektowe\Projekt_wyklady\Bank\Bank\obj\Debug\Bank.pdb
