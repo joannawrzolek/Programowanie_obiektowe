@@ -43,6 +43,7 @@ namespace Bank
             Console.WriteLine("Informacje o koncie: {0}", konta[0].PobierzInformacje(1111));
             Console.WriteLine("Informacje o koncie: {0}", konta[1].PobierzInformacje(2222));
             Console.WriteLine("Informacje o koncie: {0}", konta[1].PobierzInformacje(0));
+            Console.ReadKey();
         }
     }
 }
